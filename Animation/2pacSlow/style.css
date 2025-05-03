@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f4f8;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+h1 {
+  color: #355c7d;
+  margin: 20px 0;
+}
+
+#controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#playStopButton {
+  background-color: #6c5b7b;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#speedSlider {
+  margin-left: 10px;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+}
