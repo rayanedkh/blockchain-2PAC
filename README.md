@@ -2,7 +2,7 @@
 
 This project focuses on the implementation of the **2PAC BIG** blockchain consensus protocol and its comparison with the GradedDAG protocol. **2PAC BIG** is a more complex variant of the 2PAC protocol, developed as a response to the vulnerability found in the **Ditto** consensus of Facebook's **Diem** blockchain, as they announced in their paper [Diem's Paper on Jolteon and Ditto](https://arxiv.org/pdf/2106.10362). This project aimed to demonstrate that **2PAC BIG** is faster and more efficient in certain scenarios compared to the previous state-of-the-art asynchronous blockchain consensus protocols **GradedDAG**.
 
-## M. Rambaud Publication
+## M. Rambaud Publication:
 The full paper can be found here: [2PAC Paper](https://eprint.iacr.org/2024/1108.pdf).
 
 ## Project Overview
